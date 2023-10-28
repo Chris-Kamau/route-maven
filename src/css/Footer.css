@@ -1,0 +1,12 @@
+.Box {
+    padding: 50px  0px;
+    background-image: linear-gradient(rgb(101, 95, 95), black);
+     bottom: 0px; 
+     width: 100%;
+    @media (max-width: 1000px) {
+     padding: 70px 30px;
+    }
+    margin-top: 10px; 
+    position: static;
+    padding-top: 100px;
+ }
