@@ -9,7 +9,7 @@ function Login({ onLogin }) {
 
   return (
     <Wrapper>
-      <Logo>Route Master LTD</Logo>
+      <Logo>Route Maven LTD</Logo>
       {showLogin ? (
         <>
           <LoginForm onLogin={onLogin} />

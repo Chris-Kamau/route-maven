@@ -9,7 +9,7 @@ function Footer() {
                    textAlign: "center", 
                    marginTop: "-50px",
                    fontSize:"28px" }}>
-        ROUTE-MASTER-LTD
+        ROUTE-MAVEN-LTD
       </h1>
      
     </div>

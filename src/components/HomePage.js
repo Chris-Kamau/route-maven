@@ -52,7 +52,7 @@ const HomePage = () => {
         </p>
 
         <header style={{fontSize: "20px"}}>Thank you for being an essential part of our bus company!</header>
-        <header style={{fontSize: "40px"}}>ROUTE-MASTER-LTD</header>
+        <header style={{fontSize: "40px"}}>ROUTE-MAVEN-LTD</header>
       </div>
   </div>
 </div>)  ; <Footer/>
